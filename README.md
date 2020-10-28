@@ -38,7 +38,7 @@ print("outs = {}".format(outs))
 ```
 
 
-![image-20201028234348284](\Media\image-20201028234348284.png)
+![](Media\image-20201028234348284.png)
 
 ## 设置input dim， output dim， hidden layer size（neuron number）
 
@@ -48,7 +48,7 @@ n_neurons_out = 根据target的类型和数量
 n_features = 根据input data维度  # number of features
 ```
 
-![image-20201028232822839](\Media\image-20201028232822839.png)
+![](Media\image-20201028232822839.png)
 
 Output layer: 
 
@@ -108,9 +108,9 @@ y_hat = tf.nn.[active function](z)
 
 ```
 
-![image-20201028232958493](\Media\image-20201028232958493.png)
+![](Media\image-20201028232958493.png)
 
-![image-20201028232528739](\Media\image-20201028232528739.png)
+![](Media\image-20201028232528739.png)
 
 试试不同的activation function， 选效果最好的那个
 
